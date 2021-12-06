@@ -9,7 +9,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class CheckingForSequenceTest {
-    int [][] testArray;
+    int[][] testArray;
     boolean expected;
     boolean actual;
     CheckingForSequence checking = new CheckingForSequence();
