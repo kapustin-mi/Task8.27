@@ -28,6 +28,7 @@ public class ConsoleMain {
         out.println("Usage: ");
         out.println("  <cmd> args <input-file> (<output-file>)");
         out.println("  <cmd> --help");
+        out.println("  <cmd> --window  // show window");
     }
 
     private static void executeCheck(CmdArgs.CmdParams params) throws FileNotFoundException {
