@@ -1,3 +1,7 @@
 # Task8.27
 
-https://sun9-88.userapi.com/impg/Xb5O8bl6gnqiJ5qTGijQyQekdkXSMnb28enQBA/9JwrOBxF7k0.jpg?size=634x531&quality=96&sign=d1f47c1c40e1d33b45dd713238ed0be1&type=album   
+![image](https://user-images.githubusercontent.com/90614964/144856051-ba8977a3-fc1f-4952-989b-aec55085a78f.png)
+![image](https://user-images.githubusercontent.com/90614964/144856079-4cd3654d-5c51-4115-9724-3c0493f84f6e.png)
+![image](https://user-images.githubusercontent.com/90614964/144856092-5dae71ad-a919-46b6-b73f-bbe94f86fe7b.png)
+
+
