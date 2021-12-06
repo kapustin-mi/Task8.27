@@ -12,6 +12,7 @@ public class CheckingForSequenceTest {
     int[][] testArray;
     boolean expected;
     boolean actual;
+    
     CheckingForSequence checking = new CheckingForSequence();
 
     @Test
