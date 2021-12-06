@@ -34,7 +34,7 @@ public class ConsoleMain {
         int[][] arr = ArrayUtils.readIntArray2FromFile(params.inputFile);
 
         if (arr == null) {
-            System.out.printf("Can't read array from \"%s\"%n", params.inputFile);
+            System.err.printf("Can't read array from \"%s\"%n", params.inputFile);
             System.exit(2);
         }
 
